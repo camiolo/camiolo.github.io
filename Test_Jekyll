@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <!-- [favicon] begin -->
+        <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
+        <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+        <!-- [favicon] end -->
+     <title>Jieting Tang, Esq | Chinese Lawyer</title>
+		
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm testing!</h1>
+				<p>I'm exploring <em>web design</em> Is it working? <a href="/about">Read more about my page...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:tangjieting@hotmail.com">email</a></li>
+        		<li><a href="http://tangjieting.com">tangjieting.com</a></li>
+			</ul>
+		</footer>
+	</body>
+</html> 
