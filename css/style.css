@@ -7,8 +7,7 @@ Author: Your Inspiration Themes
 Author URI: http://yithemes.com/
 License: GNU General Public License version 3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tags: black, red, white, light, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, custom-
-s, custom-header, custom-background, custom-menu, editor-style, theme-options, threaded-comments, sticky-post, translation-ready
+Tags: black, red, white, light, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, custom-header, custom-background, custom-menu, editor-style, theme-options, threaded-comments, sticky-post, translation-ready
 */
 
 /***********************************************************************
@@ -19,7 +18,7 @@ body {line-height:1.5;}
 table {border-collapse:separate; border-spacing:0;}
 caption, th, td {text-align:left;font-weight:normal;}
 table, td, th {vertical-align:middle;}
-th {color:#ffffff;line-height:40px;min-height:40px;text-align:center;padding:10px;font-weight:bold;}
+th {color:#757475;line-height:40px;min-height:40px;text-align:center;padding:10px;font-weight:bold;}
 blockquote:before, blockquote:after, q:before, q:after { content:""; }
 blockquote, q { quotes:"" ""; }
 a img {border:none;}
